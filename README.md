@@ -18,7 +18,7 @@ pkg install python2<br>
 pkg install python3<br>
 git clone https://github.com/MisterCyber/PhishSpamM<br>
 cd PhishSpamM<br>
-python3 PhishSpamme.py<br><br><br>
+python3 PhishSpamme.py<br><br>
 
 [!] COMO USAR A FERRAMENTA<br><br><br>
 As credenciais usada precisam esta com a permissão para o uso de app menos seguros caso contrário vai retornar um erro<br><br>
